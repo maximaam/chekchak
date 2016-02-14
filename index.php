@@ -22,7 +22,6 @@
 
 <link rel="stylesheet" href="css/normalize.css">
 <link rel="stylesheet" href="js/flexslider/flexslider.css">
-<link rel="stylesheet" href="css/basic-style.css">
 <link rel="stylesheet" href="css/main.css">
 
 <!-- end CSS-->
@@ -31,31 +30,6 @@
 <script src="js/libs/modernizr-2.6.2.min.js"></script>
 <!-- end JS-->
 
-
-<!-- columns demo style. DELETE IT! -->
-<style type="text/css">
-<!--
-
-#columnsdemo .grid_1,
-#columnsdemo .grid_2,
-#columnsdemo .grid_3,
-#columnsdemo .grid_4,
-#columnsdemo .grid_5,
-#columnsdemo .grid_6,
-#columnsdemo .grid_7,
-#columnsdemo .grid_8,
-#columnsdemo .grid_9,
-#columnsdemo .grid_10,
-#columnsdemo .grid_11,
-#columnsdemo .grid_12 {
-border: solid 1px #999;
-color:#999;
-text-align: center;
-margin-top:20px;
-padding:20px 15px;
-}
--->
-</style>
 </head>
 
 <body id="home">
